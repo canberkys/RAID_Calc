@@ -23,7 +23,7 @@ This project is a web-based RAID calculator designed to help users determine the
 
 ## Screenshots / GIF
 
-![RAID Capacity Calculator Screenshot](images/raid.png)
+![RAID Capacity Calculator Screenshot](/raid.png)
 
 ## Setup
 

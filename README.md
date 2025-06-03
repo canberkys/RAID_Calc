@@ -90,6 +90,6 @@ Distributed under the MIT License. See the `LICENSE` file for more information. 
 
 ## Contact
 
-Your Name/Project Manager - [Your Email Here]
+Canberk Kilicarslan - ck@canberkki.com
 
 Project Link: [https://github.com/canberkys/RAID_Calculator](https://github.com/canberkys/RAID_Calculator) 
